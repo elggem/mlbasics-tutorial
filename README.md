@@ -1,6 +1,6 @@
 # Machine Learning Engineering Basics Tutorial
 
-This material mostly in the form of Jupyter notebooks, is aimed at preparing undergraduate and graduate students for the very basics of practical machine learning. It starts with very simple Python exercises, moves on to Numpy and finally on to simple regression and classification toy problems using Tensorflow. 
+This material mostly in the form of Jupyter notebooks, is aimed at preparing undergraduate and graduate students for the very basics of practical machine learning. It starts with very simple Python exercises, moves on to Numpy and finally on to simple regression and classification toy problems using Tensorflow. The only prerequisites are basic programming experience and the basic concepts behind machine learning problems.
 
 This is a work-in-progress and will be further improved in the coming semesters.
 
